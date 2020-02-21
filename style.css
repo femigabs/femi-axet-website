@@ -435,19 +435,17 @@ input {
     text-align: center;
 }
 
-.light-head1 {
+.news-head-text1 {
 	font-weight: 300;
 	font-size: 40px;
 	line-height: 62px;
 	color: #474747;
-	text-transform: capitalize;
 }
-.purple-head1 {
+.news-head-text2 {
 	font-weight: 300;
 	font-size: 14px;
 	line-height: 22px;
 	color: #000000;
-	text-transform: uppercase;
 }
 .news-boxes {
 	margin-top: 50px;
@@ -524,14 +522,6 @@ input {
 	margin: auto;
 	background: #fbfbfc;
 }
-/*.video-circle-icon {
-	width: 35px;
-	height: 35px;
-}
-.width-video-icon img {
-	width: 100%;
-	height: 100%;
-}*/
 .industry-circle p {
 	margin-top: 18px;
 	font-weight: 600;
@@ -562,19 +552,6 @@ input {
 .clients-brand-logos img {
 	width: 100%
 }
-/*footer {
-	margin-top: 144px;
-	width: 100%;
-	height: 366px;
-	background: #333333;
-	box-sizing: border-box;
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	padding-left: 35px;
-	padding-right: 35px;
-	z-index: 1;
-}*/
 footer {
 	margin-top: 130px;
 }
